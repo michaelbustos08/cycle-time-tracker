@@ -8,5 +8,11 @@ A simple command line tool that tracks cycle times and calculates parts per hour
 - Saves data into csv file automatically
 - Input validation to prevent errors
 
-## How to run
+## How To Run
+```
 python cycle_time.py
+```
+
+## Skills Used
+- Python
+- CSV Module
